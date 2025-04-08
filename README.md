@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivekvikigupta
-- 👀 I’m interested in NodeJs, ExpressJs, ReactJs, MongoDB, Python, JavaScript.
-- 🌱 I’m currently learning AWS, NodeJs, ReactJs
-- 💞️ I’m looking to collaborate on NodeJs
+- 👀 I’m working in Java, SpringBoot, ReactJs, MySql, JavaScript.
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me on vivekvikigupta@gmail.com
 
 <!---
